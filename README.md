@@ -4,10 +4,6 @@
 
 To be added...
 
-## overview model
-
-![avatar](./pic/AntDPP.png)
-
 ## Envs
 
 The code requires python 3.7+ and packages listed in the requiements.txt. To create environment to run the code, you can
