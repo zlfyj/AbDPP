@@ -20,7 +20,7 @@ The main datasets include:
 [SARS-CoV-2 Dataset](https://opig.stats.ox.ac.uk/webapps/covabdab/),
 [RAbD Dataset](http://dunbrack2.fccc.edu/%20PyIgClassify).
 
-## Useage
+## Usage
 
 AntiTranslate.py includes our generation model, AntDPP.
 
