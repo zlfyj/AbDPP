@@ -29,8 +29,4 @@ The primary inference step for generation is incorporated in staircase_generatio
 Running it with the command:
 > `python Staircase_generation.py`.
 
-When generating CDR region, you need to provide the corresponding antibody's frameworks as describe in our paper, we
-also provide examples here in the data file.
-
-Additionally, if users would like to obtain the trained weight data, they can contact the author by email (in AntDPP paper), and the
-corresponding download method will be shared.
+When generating CDR region, you can prepare data samples by yourself, we also provide examples here in the data file.
