@@ -1,4 +1,4 @@
-# AntDPP: Target-oriented Antibody Design with Pre-training and Prior Biological Structure Knowledge
+# AbDPP: Target-oriented Antibody Design with Pre-training and Prior Biological Structure Knowledge
 
 ## Cite
 
